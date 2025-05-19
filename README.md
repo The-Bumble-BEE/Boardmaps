@@ -11,11 +11,14 @@ Voltage maps of circuit boards are uploaded in this repository. These are create
   <tr>
     <td>Gameboy Advaced Sp</td>
     <td style="background-color: yellow;">in progress</td>
-    <td>16.05.25</td>
+    <td>19.05.25</td>
   </tr>
 </table>
 
 # Changelog
+## 19.05.25
+-edited Gameboy Advaced Sp
+
 ## 16.05.25
 -edited Gameboy Advaced Sp
 
