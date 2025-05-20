@@ -23,7 +23,7 @@ Voltage maps of circuit boards are uploaded in this repository. These are create
 -edited Gameboy Advaced Sp
 
 # Projekt idea list
-- Creating a tool that helps analys a board for faster repairs.
+- Creating a tool that helps analyse a board for faster repairs.
 - Adding heatsignitures
 
 # Sponsor me and the project
