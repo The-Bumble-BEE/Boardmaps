@@ -1,6 +1,6 @@
 Name,C/AGS-CPU-11,
 Status,On/No Cartrige,
-Last changed,19.05.25,
+Last changed,20.05.25,
 Creater,Yarma,
 ,,
 R32,0V,
@@ -40,3 +40,11 @@ C10,3.35V,
 C9,0-3.3V,
 C8,0-3.3V,
 R54,0V,20Ohm
+R42,1.95V,526Ohm
+C6,0V,
+R17,0.44V,59.5Ohm
+C74,3.28V,
+C53,5V,
+C52,5V,
+C48,2.3V,
+C67,,
