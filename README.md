@@ -16,6 +16,10 @@ Voltage maps of circuit boards are uploaded in this repository. These are create
 </table>
 
 # Changelog
+## 22.06.25
+Started working on an interactive editor for better workflow. Stay tuned!
+![image](https://github.com/user-attachments/assets/c4da312f-d04c-44bc-b855-87031d52fa8f)
+
 ## 19.05.25
 -edited Gameboy Advaced Sp
 
