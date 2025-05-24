@@ -10,8 +10,8 @@ Voltage maps of circuit boards are uploaded in this repository. These are create
   </tr>
   <tr>
     <td>Gameboy Advaced Sp</td>
-    <td style="background-color: yellow;">in progress</td>
-    <td>22.05.25</td>
+    <td style="background-color: yellow;">Done</td>
+    <td>24.05.25</td>
   </tr>
 </table>
 
@@ -19,12 +19,6 @@ Voltage maps of circuit boards are uploaded in this repository. These are create
 ## 22.06.25
 Started working on an interactive editor for better workflow. Stay tuned!
 ![image](https://github.com/user-attachments/assets/c4da312f-d04c-44bc-b855-87031d52fa8f)
-
-## 19.05.25
--edited Gameboy Advaced Sp
-
-## 16.05.25
--edited Gameboy Advaced Sp
 
 # Projekt idea list
 - Creating a tool that helps analyse a board for faster repairs.
